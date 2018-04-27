@@ -5,6 +5,8 @@ categories:
 tags:
   - Scala
   - Java
+toc: true
+toc_label: "Table of Contents"
 ---
 
 ## Why Scala?

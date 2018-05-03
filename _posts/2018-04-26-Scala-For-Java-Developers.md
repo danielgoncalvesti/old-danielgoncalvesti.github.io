@@ -28,7 +28,11 @@ Scala definitely has many advantages when compared to Java in terms of easiness 
 
 <!---## Let's try some codes --->
 
-### Immutable - Immutability
+### Immutable and Mutable
+
+Scala supports both mutable and immutable values and collections. For using a multithread program, an immutable value can be a safer option because it can never change after the first assignment. So, we can ensure that another process cannot change that value anymore.
+
+
 - **var**: used to mutatable values
 
 ```scala

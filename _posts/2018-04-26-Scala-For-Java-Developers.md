@@ -77,9 +77,3 @@ val listOfSomething = List(1,2,3) //OR val listOfSomething: List[Int] = List(1,2
 ```
 
 <!---## Features--->
-
-
-
-
-
-
